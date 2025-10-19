@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Wie lange dauert der Versand?",
+    "answer": "Der Versand dauert in der Regel 2–5 Werktage."
+  },
+  {
+    "question": "Wie kann ich meine Bestellung zurückgeben?",
+    "answer": "Sie können Artikel innerhalb von 30 Tagen nach Erhalt zurücksenden. Nutzen Sie dazu unser Rücksendeformular."
+  },
+  {
+    "question": "Wie erreiche ich den Kundendienst?",
+    "answer": "Unser Support ist erreichbar unter support@firma.de oder telefonisch unter 0123-456789 (Mo–Fr 9–17 Uhr)."
+  },
+  {
+    "question": "Welche Zahlungsmethoden akzeptieren Sie?",
+    "answer": "Wir akzeptieren Kreditkarte, PayPal und Sofortüberweisung."
+  },
+  {
+    "question": "Wie kann ich meine Bestellung stornieren?",
+    "answer": "Stornierungen sind bis zum Versand kostenlos möglich. Bitte senden Sie uns dazu eine E-Mail mit Ihrer Bestellnummer."
+  }
+]
